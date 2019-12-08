@@ -24,6 +24,12 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1Ijoia3JpdGlhZ3IiLCJhIjoiY2p5YnIwN2U4MGNjYjNicGUwazJqeHF1ciJ9.YR7wgx29G8QOXk85zxptcA</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Demo would like to access your location</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Demo would like to access your location</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
